@@ -77,3 +77,4 @@ static int[] Pour(int[] first, int[] second)
     return empty;
 }
 int a = 9;
+Console.WriteLine(a);
